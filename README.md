@@ -1,0 +1,2 @@
+# WebQuanLyRapChieuPhim
+Php Js ajax
