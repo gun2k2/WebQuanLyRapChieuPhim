@@ -1,0 +1,62 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-size: cover; 
+	background-color: #ddd !important;
+	font-family: 'Roboto',sans-serif;
+}
+.clearfix{
+	clear: both;
+
+}
+.loginbox{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 300px;
+	height: 400px;
+	transform: translate(-50%,-50%);
+	background-color: #ffffff;
+}
+.loginbox h1{
+	font-size: 28px;
+	font-weight: 100;
+}
+.textbox{
+	width: 100%;
+	border-bottom:  1px solid #aaa;
+	margin: 5px 0;
+	font-size: 10px;
+}
+.textbox i{
+	font-size: 22px;
+}
+.textbox input{
+	background: none;
+	margin-top: 7px;
+	border: none;
+	outline: none;
+	color: black;
+	font-size:  18px;
+	font-family: 'Roboto';
+}
+.btn{
+	width:  100%;
+	background:  none;
+	font-size: 22px;
+	color:  white;
+	text-align:  center;
+	margin: 10px 0;
+	padding: 12px 0;
+	border-bottom:  2px solid #66FF66;
+	cursor:  pointer; 
+
+}
+
+.btn.btn_turquoise{
+	color: #ffffff;
+	background-color: #16a085
+}
+input[type="submit"]:hover{
+      background: #4cd3c2;
+    }

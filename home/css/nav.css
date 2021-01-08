@@ -1,0 +1,24 @@
+.bg_kem{
+	background-color: #fdf7dc;
+	border-top: 3px solid #e52125;
+	border-bottom: 3px solid #e52125;
+}
+
+.dropdown-menu.show{
+	position: absolute !important;
+	bottom: 0 !important;
+	left: -49px !important;
+	z-index: 150 !important;
+	height: 81px !important;
+	border: none;
+	background-color: #fdf7dc;
+}
+
+.dropdown-menu.show a:hover{
+	color: #e52125;
+	background-color: #fdf7dc;
+}
+
+.navbar-nav .nav-item a.nav-link:hover{
+	color: #e71a0f;
+}

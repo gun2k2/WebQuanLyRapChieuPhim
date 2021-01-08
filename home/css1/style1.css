@@ -1,0 +1,14 @@
+.bus {
+    width:340px;
+    float:left;
+    min-height:150px;
+    border:1px solid #CCC;
+    padding:0 0 10px 10px
+}
+.seat {
+    background:#EFEFEF;
+    float:left;
+    margin:10px 10px 0 0;
+    cursor:pointer;
+    padding:4;
+}

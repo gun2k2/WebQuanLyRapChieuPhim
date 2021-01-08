@@ -1,0 +1,44 @@
+input.btn.btn_kem{
+	background-color: #e71a0f;
+}
+
+input[type=text],
+input[type=email] {
+    width: 300px;
+    height: 40px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+    float: right;
+}
+
+input[type=date]{
+	height: 40px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: white;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+    float: right;
+}
+
+
+
+.container .row .col-5 p{
+	color: black !important;
+}
+
+.phimdangchieu-title h5{
+	color: #e71a0f;
+}
+
+.menu .navbar .container.justify-content-center{
+	line-height: 0px;
+}
